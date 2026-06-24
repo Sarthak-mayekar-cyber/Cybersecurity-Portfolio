@@ -4,11 +4,11 @@ A cybersecurity learning portfolio containing certifications, networking and sec
 Hi, I'm Sarthak Mayekar. Welcome to my practical portfolio explicitly engineered for the IIT Kanpur Bachelor of Cybersecurity (B.Cyber) curriculum under the Wadhwani School of AI and Intelligent Systems.
 
 ## 👤 Profile & Practical Metrics
-* **TryHackMe Public Profile:** https://tryhackme.com
-* **GitHub Repository Layout:** https://github.com
+* **TryHackMe Public Profile:** https://tryhackme.com/p/Sarthakmayekar
+* **GitHub Repository Layout:** https://github.com/Sarthak-mayekar-cyber/Cybersecurity-Portfolio
 
 ## 🎓 Verifiable Professional Credentials
-* 📁 **[My Certificates](./Certificates):** 
+* 📁 **[My Certificates](Certificates%20Readme.md/):** 
   
 * 🕹️ **Hands-on Training Footprint:** Live progress tracking and active room badges are public at [TryHackMe/Sarthakmayekar](https://tryhackme.com). Completed pathways include *Linux Fundamentals*, *Intro to Web Hacking*, and the full *Cyber Security 101 Foundations* syllabus.
 
@@ -19,7 +19,7 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 ## 📂 Repository Architecture & Core Content
 
 ### 📁 1. [Technical Study Guides](./Notes)
-* 📄 **[Common-Ports.md] (Notes/Linux-Basics.md):**
+* 📄 **[Common-Ports.md](Notes%20common-ports.md):**
 * 📄 **[Linux-Basics.md](Notes%20Linux-Basics.md):**
 
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
