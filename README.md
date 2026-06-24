@@ -20,7 +20,7 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 
 ### 📁 1. [Technical Study Guides](./Notes)
 * 📄 **[Common-Ports.md] (Notes/Linux-Basics.md):**
-* 📄 **[Linux-Basics.md](./Notes/Linux-Basics.md):**
+* 📄 **[Linux-Basics.md](Notes%20Linux-Basics.md):**
 
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
 * 🐍 **[network_audit.py](./Projects/Cybersecurity-Toolkit/network_audit.py):**
