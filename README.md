@@ -19,7 +19,7 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 ## 📂 Repository Architecture & Core Content
 
 ### 📁 1. [Technical Study Guides](./Notes)
-* 📄 **[Common-Ports.md](Notes Linux-Basics.md):**
+* 📄 **[Common-Ports.md] (Notes/Linux-Basics.md):**
 * 📄 **[Linux-Basics.md](./Notes/Linux-Basics.md):**
 
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
