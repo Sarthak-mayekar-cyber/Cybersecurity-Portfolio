@@ -25,7 +25,7 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
 * 🐍 **[network_audit.py](./Projects/Cybersecurity-Toolkit/network_audit.py):**
 * 🐍 **[password_checker.py](./Projects/Cybersecurity-Toolkit/password_checker.py):**
-* 🐍 **[api_auth_simulator.py](./Projects/Cybersecurity-Toolkit/api_auth_simulator.py):**
+* 🐍 **[api_auth_simulator.py](/Project%20api_auth_simulator.py):**
 
 ## 🎯 Active Learning Milestones
 * [x] Core Network Protocols & OSI Layers
