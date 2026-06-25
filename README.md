@@ -8,7 +8,8 @@ Hi, I'm Sarthak Mayekar. Welcome to my practical portfolio explicitly engineered
 * **GitHub Repository Layout:** https://github.com/Sarthak-mayekar-cyber/Cybersecurity-Portfolio
 
 ## 🎓 Verifiable Professional Credentials
-* 📁 **[My Certificates](Certificates%20Readme.md/):** 
+* 📁 **[My Certificates](Certificates%20Readme.md/):--1]**Tryhackme cyber security 101---*https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WT6I61IUYR.pdf
+* 2]cisco networking academy introduction of cybersecurity ---*https://acrobat.adobe.com/id/urn:aaid:sc:AP:31c80599-66b7-5424-b150-5609a8b50144
   
 * 🕹️ **Hands-on Training Footprint:** Live progress tracking and active room badges are public at [TryHackMe/Sarthakmayekar](https://tryhackme.com). Completed pathways include *Linux Fundamentals*, *Intro to Web Hacking*, and the full *Cyber Security 101 Foundations* syllabus.
 
