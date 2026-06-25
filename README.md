@@ -33,6 +33,6 @@ Hi, I'm Sarthak Mayekar. Welcome to my practical portfolio explicitly engineered
 3.🖥️ PYTHON SECURITY TOOLKITS & LIVE CODE EXECUTION
   To demonstrate practical programming logic and software engineering aptitude, I have engineered custom security utilities hosted inside my GitHub repository. To ensure an interactive review process for the selection panel, my primary network monitor has been deployed to an active cloud container for immediate, one-click terminal validation
 
-🐍 **[Projects image_forensics.py](https://github.com/Sarthak-mayekar-cyber/Cybersecurity-Portfolio/blob/main/Projects%20image_forensics.py)
+🐍 **[Projects image_forensics.py](https://github.com/Sarthak-mayekar-cyber/Cybersecurity-Portfolio/blob/main/image_forensics.py)
 
 👉 LIVE NETWORK MONITOR INTERFACE:
