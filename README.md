@@ -20,13 +20,13 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 ## 📂 Repository Architecture & Core Content
 
 ### 📁 1. [Technical Study Guides](./Notes)
-* 📄 **[Common-Ports.md](Notes%20common-ports.md):**
-* 📄 **[Linux-Basics.md](Notes%20Linux-Basics.md):**
+* 📄 **[Common-Ports.md](Notes%20common-ports.md):**Conceptual cheat sheet mapping structural network interfaces including Port 22 (SSH), Port 80/443 (HTTP/S), and Port 135 (MSRPC)
+* 📄 **[Linux-Basics.md](Notes%20Linux-Basics.md):** Command-line reference guide mapping automated text parsing commands (`grep`, `find`, `cat`, `chmod`). 
 
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
-* 🐍 **[network_audit.py](./Projects%20live_sniffer.py):**
-* 🐍 **[password_checker.py](./Projects/Cybersecurity-Toolkit/password_checker.py):**
-* 🐍 **[api_auth_simulator.py](/Project%20api_auth_simulator.py):**
+* 🐍 **[network_audit.py](./Projects%20live_sniffer.py):**A custom Python script engineered to map active host interfaces and automate local security infrastructure logging.
+* 🐍 **[password_checker.py](./Projects/Cybersecurity-Toolkit/password_checker.py):**A programmatic text parsing utility analyzing character attributes to calculate password configuration risk parameters
+* 🐍 **[api_auth_simulator.py](/Project%20api_auth_simulator.py):**:  A script simulating token-based API request vetting to analyze and identify broken authentication security flaws.
 
 ## 🎯 Active Learning Milestones
 * [x] Core Network Protocols & OSI Layers
