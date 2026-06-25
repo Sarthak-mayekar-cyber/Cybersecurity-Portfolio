@@ -24,7 +24,7 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 * 📄 **[Linux-Basics.md](Notes%20Linux-Basics.md):** Command-line reference guide mapping automated text parsing commands (`grep`, `find`, `cat`, `chmod`). 
 
 ### 📁 2. [Python Automation Projects](./Projects/Cybersecurity-Toolkit)
-* 🐍 **[network_audit.py](./Projects%20live_sniffer.py):**A custom Python script engineered to map active host interfaces and automate local security infrastructure logging.
+* 🐍 **[live_sniffer.py:](./Projects%20live_sniffer.py):**A network traffic analysis utility that captures and displays live packet information for monitoring and educational purposes.
 * 🐍 **[password_checker.py](./Projects/Cybersecurity-Toolkit/password_checker.py):**A programmatic text parsing utility analyzing character attributes to calculate password configuration risk parameters
 * 🐍 **[api_auth_simulator.py](/Project%20api_auth_simulator.py):**:  A script simulating token-based API request vetting to analyze and identify broken authentication security flaws.
 
