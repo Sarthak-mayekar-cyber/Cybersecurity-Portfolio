@@ -13,10 +13,6 @@ Hi, I'm Sarthak Mayekar. Welcome to my practical portfolio explicitly engineered
   
 * 🕹️ **Hands-on Training Footprint:** Live progress tracking and active room badges are public at [TryHackMe/Sarthakmayekar](https://tryhackme.com). Completed pathways include *Linux Fundamentals*, *Intro to Web Hacking*, and the full *Cyber Security 101 Foundations* syllabus.
 
-## 🖥️ Local Home Lab Sandbox (Operating Systems Layer)
-Below is the live verification snapshot of my local Oracle VirtualBox hypervisor executing the pre-built Kali Linux suite, with terminal paths configured for threat logging and core networking practice:
-![Local Environment Lab Setup](homelab_setup.png)
-
 ## 📂 Repository Architecture & Core Content
 
 ### 📁 1. [Technical Study Guides](./Notes)
@@ -34,6 +30,9 @@ Below is the live verification snapshot of my local Oracle VirtualBox hypervisor
 * [x] Web & API Security Vulnerability Mapping
 * [ ] Static Binary Reverse Engineering and Malware Triage 
 
+3.🖥️ PYTHON SECURITY TOOLKITS & LIVE CODE EXECUTION
+  To demonstrate practical programming logic and software engineering aptitude, I have engineered custom security utilities hosted inside my GitHub repository. To ensure an interactive review process for the selection panel, my primary network monitor has been deployed to an active cloud container for immediate, one-click terminal validation
 
-![Local Environment Lab Setup](homelab_setup.png)
-  
+🐍 **[Projects image_forensics.py](https://github.com/Sarthak-mayekar-cyber/Cybersecurity-Portfolio/blob/main/Projects%20image_forensics.py)
+
+👉 LIVE NETWORK MONITOR INTERFACE:
